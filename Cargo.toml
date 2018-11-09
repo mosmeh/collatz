@@ -1,0 +1,9 @@
+[package]
+name = "collatz"
+version = "0.1.0"
+authors = ["mosm <airman515@gmail.com>"]
+
+[dependencies]
+num-bigint = "0.2.1"
+num-traits = "0.2.6"
+clap = "2.32.0"
